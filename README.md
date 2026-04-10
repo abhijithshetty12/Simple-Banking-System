@@ -2,9 +2,9 @@
 
 A modern, desktop-based banking application built with **Python**, **Tkinter**, and **SQLite3**. This project features a sophisticated UI inspired by **Bento** and **Liquid Glass** design principles, offering a seamless user experience for basic financial management.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite)
-![Tkinter](https://img.shields.io/badge/UI-Tkinter-gray?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -18,9 +18,9 @@ A modern, desktop-based banking application built with **Python**, **Tkinter**, 
       <td align="center"><b>Dashboard</b></td>
     </tr>
     <tr>
-      <td><img src="screenshots/login.png" width="200" alt="Login Page"></td>
-      <td><img src="screenshots/signup.png" width="200" alt="Registration Page"></td>
-      <td><img src="screenshots/dashboard.png" width="200" alt="Main Dashboard"></td>
+      <td><img src="screenshots/login.png" alt="Login Page"></td>
+      <td><img src="screenshots/signup.png" alt="Registration Page"></td>
+      <td><img src="screenshots/dashboard.png" alt="Main Dashboard"></td>
     </tr>
   </table>
 </div>
