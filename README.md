@@ -5,10 +5,27 @@ A modern, desktop-based banking application built with **Python**, **Tkinter**, 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite)
 ![Tkinter](https://img.shields.io/badge/UI-Tkinter-gray?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
+## 📸 Interface Preview
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Sign In</b></td>
+      <td align="center"><b>Create Account</b></td>
+      <td align="center"><b>Dashboard</b></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/login.png" width="200" alt="Login Page"></td>
+      <td><img src="screenshots/signup.png" width="200" alt="Registration Page"></td>
+      <td><img src="screenshots/dashboard.png" width="200" alt="Main Dashboard"></td>
+    </tr>
+  </table>
+</div>
+
+---
 ## ✨ Key Features
 
 The application is structured into a logical, card-based **Dashboard** that provides essential banking services:
